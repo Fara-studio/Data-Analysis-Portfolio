@@ -44,7 +44,7 @@ FROM superstore
 GROUP BY Category, [Sub_Category]
 ORDER BY Category, sales DESC;
 
--- 8. Sales per Cities
+-- 8. Top 10 cities
 SELECT TOP 10
 	City,
 	SUM(Sales) AS sales
