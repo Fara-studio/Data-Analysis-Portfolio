@@ -62,6 +62,8 @@ The following metrics were calculated:
 
 ## 📊 Power BI Dashboard
 
+![Sales Dashboard](PowerBI/sales_dashboard.png)
+
 The dashboard includes:
 
 * KPI cards (Total Sales, Orders Count, AOV)
