@@ -37,7 +37,7 @@ Sales-Analysis-SQL-PowerBI
 │
 ├── PowerBI
 │   └── sales_dashboard.png
-│
+│   └── sales_dashboard.pbix
 ├── Python
 │   └── superstore_analysis.ipynb
 │
